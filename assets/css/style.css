@@ -78,7 +78,7 @@ nav button {
   margin-left: 20px; /* Adjust the value to your desired spacing */
 }
 
-header{
+/* header{
     background-color: rgba(2, 155, 243, 0.945);
     padding: 20px;
     color:rgb(255, 255, 255);
@@ -119,7 +119,7 @@ header button:hover{
     cursor: pointer;
     background-color: var(--primary);
     color: white;
-}
+} */
 .btn{
     padding: 7px 7px 7px 7px;
     margin-right: 40px;
